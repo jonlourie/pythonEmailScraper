@@ -1,0 +1,2 @@
+# pythonEmailScraper
+simple text scraper
